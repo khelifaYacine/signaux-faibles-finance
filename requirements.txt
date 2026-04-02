@@ -1,0 +1,10 @@
+pandas
+numpy
+pyarrow
+fastparquet
+matplotlib
+seaborn
+scikit-learn
+jupyter
+plotly
+tqdm
